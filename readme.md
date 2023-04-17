@@ -1,4 +1,4 @@
-# Login Registration with Node.js and MySQL
+# Login/Registration with Node.js and MySQL
 
 This project is a simple web application that allows users to register and login to an account using Node.js and MySQL as the database.
 
